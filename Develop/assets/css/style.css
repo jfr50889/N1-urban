@@ -1,3 +1,4 @@
+/*Body*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,14 +8,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/*comment*/
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*main*/
 .hero {
     height: 800px;
     width: 100%;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer*/
 .footer {
     padding: 30px;
     clear: both;
